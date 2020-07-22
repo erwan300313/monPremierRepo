@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css" />
     <title>Blog</title>
 </head>
-<body>
+<body> test pour le commit
     <h1>Mon super blog !</h1>  
     <?php
         try
